@@ -1,0 +1,8 @@
+Library Statistics:
+=====================================
+Most popular book: null (0 borrows)
+Most popular genre: null
+Most popular author: null
+Total users: 2
+Total books: 3
+Total borrows: 0
